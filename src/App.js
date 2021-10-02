@@ -1,9 +1,10 @@
 import React from 'react';
+import Learn from './learn';
 
 function App() {
   return (
     <div className="App">
-      <h2>learn react</h2>
+      <Learn />
     </div>
   );
 }
